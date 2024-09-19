@@ -1,1 +1,1 @@
-# .github
+# SmartStride: ITW Rehabilitation 
